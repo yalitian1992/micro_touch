@@ -53,7 +53,7 @@ function isPhone(phone, pc){
 
     isPhone(function(){
         $(".screem2 .box").on("click", function(){
-            // window.open("http://www.zbqibing.com/jifen-m")
+            window.open("http://www.zbqibing.com/jifen-m")
         })
     }, function(){
         $(".screem2 .box").on("click", function(){
