@@ -15,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="recruit.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="recruit.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/recruit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="525">
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -52,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="849" column="22" lean-forward="true" selection-start-line="849" selection-start-column="22" selection-end-line="849" selection-end-column="22" />
+            <state relative-caret-position="285">
+              <caret line="827" column="21" lean-forward="true" selection-start-line="827" selection-start-column="21" selection-end-line="827" selection-end-column="21" />
               <folding>
                 <element signature="e#9863#10253#0" expanded="false" />
               </folding>
@@ -120,8 +120,8 @@
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/recruit.html" />
-        <option value="$PROJECT_DIR$/css/common.css" />
         <option value="$PROJECT_DIR$/js/recruit.js" />
+        <option value="$PROJECT_DIR$/css/common.css" />
       </list>
     </option>
   </component>
@@ -293,12 +293,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511424753927</updated>
-      <workItem from="1511424755326" duration="40292000" />
+      <workItem from="1511424755326" duration="40482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40292000" />
+    <option name="totallyTimeSpent" value="40482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="0" width="1924" height="1047" extended-state="0" />
@@ -412,21 +412,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/common.css">
+    <entry file="file://$PROJECT_DIR$/js/recruit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="849" column="22" lean-forward="true" selection-start-line="849" selection-start-column="22" selection-end-line="849" selection-end-column="22" />
-          <folding>
-            <element signature="e#9863#10253#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/recruit.js">
+    <entry file="file://$PROJECT_DIR$/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="827" column="21" lean-forward="true" selection-start-line="827" selection-start-column="21" selection-end-line="827" selection-end-column="21" />
+          <folding>
+            <element signature="e#9863#10253#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

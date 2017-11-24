@@ -826,7 +826,7 @@ home h1,home h3{
 }
 .rec-nav li.active:before{
   position: absolute;
-  bottom: 0;
+  bottom: -0.38rem;
   left: 46%;
   content: "";
   width: 0.13rem;
