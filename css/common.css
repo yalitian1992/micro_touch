@@ -412,7 +412,7 @@ home h1,home h3{
 /* 移动端第二屏 */
 .screem2 {
 	background: url(../images/m-sy-2.png) no-repeat center/cover;
-  border: 1px solid rgba(0,0,0,0);
+  /* border: 1px solid rgba(0,0,0,0); */
 }
 .screem2 .logo{
   margin: 0.8rem auto 0 auto;
