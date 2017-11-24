@@ -57,7 +57,7 @@ function isPhone(phone, pc){
         })
     }, function(){
         $(".screem2 .box").on("click", function(){
-            window.open("http://www.zbqibing.com/pc/")
+            window.open("http://www.zbqibing.com/jifen-pc")
         })
     })
 
