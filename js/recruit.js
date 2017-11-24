@@ -1,5 +1,5 @@
 $(function(){
-  var titHeight = $(".tit").outerHeight()
+  var titHeight;
 
 
   /*判断微信或不是微信*/
@@ -14,18 +14,20 @@ $(function(){
 
   isWachat(function(){
     $(".header .tit").css("display","none")
+    titHeight = 0
   },function(){
     $(".header .tit").css("display","block")
     $(".preface").css("margin-top",titHeight)
+    titHeight = $(".tit").outerHeight()
   })
 
 
   $(window).scroll(function(){
     var scrollTop = $(window).scrollTop();  //浏览器到页面
     var Height = $(".detail").offset().top
-    var titHeight = $(".tit").outerHeight()
     var navHeight = $(".rec-nav").outerHeight()
     var Range = Height - scrollTop
+
 
     if(Range <= titHeight+navHeight){
       $(".rec-nav").addClass("active")

@@ -804,11 +804,13 @@ home h1,home h3{
   background: #aeaeae;
 }
 .rec-nav{
+  width: 100%;
   height: 1rem;
   background: #323232;
   /*font-size: 0.24rem;*/
   color: #c5c5c5;
   z-index: 100;
+  padding: 0.38rem 0.236rem;
 }
 .rec-nav.active{
   position: fixed;
@@ -816,7 +818,6 @@ home h1,home h3{
 }
 .rec-nav li{
   float: left;
-  padding: 0.38rem 0.236rem 0.39rem 0.236rem;
   color: #c5c5c5;
   position:relative;
 }
@@ -838,35 +839,39 @@ home h1,home h3{
 .detail h5{
   height: 0.6rem;
   line-height: 0.6rem;
-  padding-left: 0.2rem;
   color: #8d5702;
   border-top: 2px solid #ecc77e;
   z-index: 0;
-  position: relative;
 }
 .detail h5 span{
-  font-size: 0.24rem;
- }
-.detail h5:before{
-  content: "";
-  width: 2.74rem;
+  position: relative;
+  display: inline-block;
   height: 0.6rem;
+  line-height: 0.6rem;
+  font-size: 0.24rem;
+  padding: 0 .6rem;
+  z-index: 2;
+ }
+.detail h5 span:before{
+  content: "";
+  width: 100%;
+  height: 100%;
   background: #ecc77e;
   position: absolute;
   top: 0;
   left: 0;
-  z-index: -1;
+  z-index: -2;
 }
-.detail h5:after{
+.detail h5 span:after{
   content: "";
-  width: 2.74rem;
-  height: 0.6rem;
+  width: 100%;
+  height: 100%;
   background: #ecc77e;
   opacity: 0.5;
   position: absolute;
   top: 0.12rem;
   left: 0.12rem;
-  z-index: -2;
+  z-index: -1;
 }
 .detail li{
   border: 1px solid #aeaeae;
