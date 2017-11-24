@@ -1,6 +1,7 @@
 
 $(function(){
 
+
   /*判断微信或不是微信*/
     function isWachat (isisWachat, notWachat) {
     var ua = window.navigator.userAgent.toLowerCase();
@@ -11,6 +12,11 @@ $(function(){
     }
   }
 
+  isWachat(function(){
+    $(".header .tit").css("display","none")
+  },function(){
+    $(".header .tit").css("display","block")
+  })
 
 function isPhone(phone, pc){
     var browser = {
@@ -58,14 +64,6 @@ function isPhone(phone, pc){
     isPhone(function(){
             $('.pc.about').remove()
             $('.pc.contact').remove()
-
-            // 恢复滑屏
-            $(window).scroll(function(event) {
-              // console.log(jQuery(window).scrollTop() - $(".pc.company").offset().top)
-              if($(window).scrollTop() < $(".pc.company").offset().top){
-                $.fn.fullpage.setAutoScrolling(true);
-              }
-            });
         }, function(){})
 
 
@@ -83,16 +81,6 @@ function isPhone(phone, pc){
                             $(".pc.screem2 .chip").removeClass('active')
                             $(".pc.screem2 .center-chip ").removeClass('active')
                         };
-
-                        isPhone(function(){
-                            if(index == 3){
-                                $.fn.fullpage.setAutoScrolling(false);
-                                $("body").css({
-                                    overflowX: "hidden",
-                                    overflowY: "visible"
-                                })
-                            }
-                        }, function(){})
                     },
 
 
@@ -112,8 +100,6 @@ function isPhone(phone, pc){
 
                         //结构加载完成TOP显示
                         //
-                        
-
 
                         // 页面文档加载完成给所有animate类添加动画样式，开关在向上滑动向下滑动函数里
                         // 
@@ -184,8 +170,6 @@ function isPhone(phone, pc){
                         };
                         
                     };
-
-
 
         }
     });
