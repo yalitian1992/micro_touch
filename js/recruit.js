@@ -18,11 +18,13 @@ $(function(){
   },function(){
     $(".header .tit").css("display","block")
     $(".preface").css("margin-top",titHeight)
-    titHeight = $(".tit").outerHeight()
+    titHeight = $(".tit").outerHeight() + 28
+    console.log(titHeight);
   })
 
 
   $(window).scroll(function(){
+    // console.log($(".tit").outerHeight());
     var scrollTop = $(window).scrollTop();  //浏览器到页面
     var Height = $(".detail").offset().top
     var navHeight = $(".rec-nav").outerHeight()

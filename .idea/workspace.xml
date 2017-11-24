@@ -18,8 +18,8 @@
       <file leaf-file-name="recruit.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/recruit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="500">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,9 +56,9 @@
         <entry file="file://$PROJECT_DIR$/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="827" column="21" lean-forward="true" selection-start-line="827" selection-start-column="21" selection-end-line="827" selection-end-column="21" />
+              <caret line="138" column="26" lean-forward="false" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
               <folding>
-                <element signature="e#9863#10253#0" expanded="false" />
+                <element signature="e#9876#10266#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -81,7 +81,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>recruit</find>
-      <find>.rec-nav li.active:before</find>
       <find>section</find>
       <find>fullpage</find>
       <find>.home .sy-logo</find>
@@ -106,6 +105,7 @@
       <find>导航</find>
       <find>.detail h5</find>
       <find>titHeight</find>
+      <find>.rec-nav li.active:before</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -293,12 +293,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511424753927</updated>
-      <workItem from="1511424755326" duration="40482000" />
+      <workItem from="1511424755326" duration="41106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40482000" />
+    <option name="totallyTimeSpent" value="41106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="0" width="1924" height="1047" extended-state="0" />
@@ -414,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/recruit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="500">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -423,9 +423,9 @@
     <entry file="file://$PROJECT_DIR$/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="827" column="21" lean-forward="true" selection-start-line="827" selection-start-column="21" selection-end-line="827" selection-end-column="21" />
+          <caret line="138" column="26" lean-forward="false" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
           <folding>
-            <element signature="e#9863#10253#0" expanded="false" />
+            <element signature="e#9876#10266#0" expanded="false" />
           </folding>
         </state>
       </provider>
