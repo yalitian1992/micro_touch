@@ -18,8 +18,8 @@
       <file leaf-file-name="recruit.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/recruit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -28,10 +28,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="30" />
+            <state relative-caret-position="434">
+              <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
               <folding>
-                <element signature="e#2739#3060#0" expanded="false" />
+                <element signature="e#2732#3053#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -85,8 +85,8 @@
       <file leaf-file-name="common.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="853" column="2" lean-forward="true" selection-start-line="853" selection-start-column="2" selection-end-line="853" selection-end-column="2" />
+            <state relative-caret-position="385">
+              <caret line="376" column="68" lean-forward="true" selection-start-line="376" selection-start-column="68" selection-end-line="376" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -96,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
-              <caret line="70" column="50" lean-forward="true" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+              <caret line="70" column="50" lean-forward="false" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
               <folding>
                 <marker date="1511748994981" expanded="false" signature="3012:5228" ph="{...}" />
               </folding>
@@ -134,6 +134,7 @@
       <find>.detail h5</find>
       <find>titHeight</find>
       <find>.rec-nav li.active:before</find>
+      <find>.detail h5 span</find>
       <find>烧脑且重奖的智力竞赛</find>
     </findStrings>
   </component>
@@ -147,9 +148,9 @@
         <option value="$PROJECT_DIR$/css/fullpage.css" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/recruit.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$PROJECT_DIR$/js/recruit.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$PROJECT_DIR$/css/common.css" />
       </list>
     </option>
@@ -329,12 +330,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511424753927</updated>
       <workItem from="1511424755326" duration="41106000" />
-      <workItem from="1511746949987" duration="1957000" />
+      <workItem from="1511746949987" duration="3300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43063000" />
+    <option name="totallyTimeSpent" value="44406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="0" width="1924" height="1047" extended-state="0" />
@@ -382,7 +383,7 @@
         <state relative-caret-position="675">
           <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
-            <element signature="e#2739#3060#0" expanded="false" />
+            <element signature="e#2732#3053#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -514,38 +515,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/recruit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="30" />
-          <folding>
-            <element signature="e#2739#3060#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
-          <caret line="70" column="50" lean-forward="true" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+          <caret line="70" column="50" lean-forward="false" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
           <folding>
             <marker date="1511748994981" expanded="false" signature="3012:5228" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/recruit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+          <folding>
+            <element signature="e#2732#3053#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="853" column="2" lean-forward="true" selection-start-line="853" selection-start-column="2" selection-end-line="853" selection-end-column="2" />
+        <state relative-caret-position="385">
+          <caret line="376" column="68" lean-forward="true" selection-start-line="376" selection-start-column="68" selection-end-line="376" selection-end-column="68" />
           <folding />
         </state>
       </provider>
