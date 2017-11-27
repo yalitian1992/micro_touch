@@ -51,7 +51,7 @@ function isPhone(phone, pc){
 
 
 
-    isPhone(function(){
+/*    isPhone(function(){
         $(".screem2 .box").on("click", function(){
             window.open("http://www.zbqibing.com/jifen-m")
         })
@@ -59,13 +59,17 @@ function isPhone(phone, pc){
         $(".screem2 .box").on("click", function(){
             window.open("http://www.zbqibing.com/jifen-pc")
         })
-    })
+    })*/
 
     isPhone(function(){
             $('.pc.about').remove()
             $('.pc.contact').remove()
         }, function(){})
 
+    // 集分竞宝 跳转页
+    $(".scr2-list-box").on("click",function(){
+      window.open("http://www.zbqibing.com/jifen")
+    })
 
     // 滚屏动画
     $('#dowebok').fullpage({
