@@ -412,7 +412,7 @@ home h1,home h3{
 /* 移动端第二屏 */
 .screem2 {
 	background: url(../images/m-sy-2.png) no-repeat center/cover;
-  border: 1px solid rgba(0,0,0,0);
+  /* border: 1px solid rgba(0,0,0,0); */
 }
 .screem2 .logo{
   margin: 0.8rem auto 0 auto;
@@ -482,6 +482,7 @@ home h1,home h3{
   margin-top: 0.36rem;
   font-size: 0.24rem;
   color: #d49e49;
+  font-weight: bold;
 }
 .scr2-list-box .p2{
   margin-top: 0.14rem;
@@ -695,11 +696,11 @@ home h1,home h3{
 	background: url(../images/m-contact.png) no-repeat center/cover;
 }
 .contact h1 {
-	text-align: center;
-  font-size: 0.66rem;
-  letter-spacing: 0.13rem;
-	color: #ECC77E;
-	padding-top: 1.2rem;
+text-align: center;
+    font-size: 0.66rem;
+    letter-spacing: 0.13rem;
+    color: #ECC77E;
+    padding-top: .4rem;
 }
 .contact ol {
 	padding: 0 .3rem;
@@ -784,8 +785,7 @@ home h1,home h3{
   height: 5.8rem;
 }
 .preface{
-  background: url("../images/more-bg.png") no-repeat;
-  background-size: 100% 100%;
+  background: url("../images/more-bg.png") no-repeat center/cover;
   /*font-size: 0.24rem;*/
 }
 .preface p{

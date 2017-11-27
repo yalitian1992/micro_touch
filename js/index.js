@@ -53,11 +53,11 @@ function isPhone(phone, pc){
 
     isPhone(function(){
         $(".screem2 .box").on("click", function(){
-            window.open("http://www.zbqibing.com/phone/")
+            window.open("http://www.zbqibing.com/jifen-m")
         })
     }, function(){
         $(".screem2 .box").on("click", function(){
-            window.open("http://www.zbqibing.com/pc/")
+            window.open("http://www.zbqibing.com/jifen-pc")
         })
     })
 
