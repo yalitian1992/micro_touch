@@ -850,7 +850,7 @@ text-align: center;
   line-height: 0.6rem;
   font-size: 0.24rem;
   padding: 0 .6rem;
-  z-index: 2;
+  z-index: 0;
  }
 .detail h5 span:before{
   content: "";
