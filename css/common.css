@@ -898,3 +898,51 @@ text-align: center;
 .detail .txt p{
   line-height: 0.36rem;
 }
+
+/*许可证*/
+.licence-box{
+  height: 13.8rem;
+  position: relative;
+  /*border-top: 0.1px solid rgba(237,193,123,0.8);*/
+}
+.licence{
+  padding-top: 1.5rem;
+}
+.licence-box:before,.licence-box:after{
+  height: 1.4rem;
+}
+.licence-box:before{
+  content: "";
+  /*height: 1.4rem;*/
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: url("../images/licence-top.png");
+  background-size: 100% 100%;
+}
+.licence-box:after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url("../images/licence-bottom.png");
+  background-size: 100% 100%;
+}
+.licence-box i,.licence-box span{
+  display: block;
+  margin: 0 auto;
+}
+.licence-box i{
+  margin: 0 auto;
+  width: 2.29rem;
+  height: .4rem;
+  background: url("../images/pc-logo.png") no-repeat;
+  background-size: 100% 100%;
+}
+.licence-box img{
+  margin: 0.1rem auto 0 auto;
+  width: 7.2rem;
+  height: 10.4rem;
+}

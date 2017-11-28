@@ -16,10 +16,12 @@ $(function(){
     $(".header .tit").css("display","none")
     titHeight = 0
   },function(){
+    titHeight = $(".tit").outerHeight() + 28
     $(".header .tit").css("display","block")
     $(".preface").css("margin-top",titHeight)
-    titHeight = $(".tit").outerHeight() + 28
-    console.log(titHeight);
+    $(".licence-box").css("margin-top",titHeight)
+
+    // console.log(titHeight);
   })
 
 
@@ -40,7 +42,6 @@ $(function(){
       $(".detail").css("marginTop",0)
     }
   })
-
 
 
 //招聘信息—— 标签切换
