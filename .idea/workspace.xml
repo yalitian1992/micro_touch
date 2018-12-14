@@ -64,8 +64,8 @@
       <file leaf-file-name="common.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="910" column="39" lean-forward="true" selection-start-line="910" selection-start-column="39" selection-end-line="910" selection-end-column="39" />
+            <state relative-caret-position="538">
+              <caret line="922" column="1" lean-forward="true" selection-start-line="922" selection-start-column="1" selection-end-line="922" selection-end-column="1" />
               <folding>
                 <element signature="e#16236#16409#0" expanded="false" />
                 <element signature="e#16428#16585#0" expanded="false" />
@@ -189,7 +189,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TEST-1/test-ES6" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
@@ -287,16 +287,15 @@
       <updated>1511424753927</updated>
       <workItem from="1511424755326" duration="41106000" />
       <workItem from="1511746949987" duration="5885000" />
-      <workItem from="1511849057380" duration="6181000" />
+      <workItem from="1511849057380" duration="6737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53172000" />
+    <option name="totallyTimeSpent" value="53728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12737843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -505,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="910" column="39" lean-forward="true" selection-start-line="910" selection-start-column="39" selection-end-line="910" selection-end-column="39" />
+        <state relative-caret-position="538">
+          <caret line="922" column="1" lean-forward="true" selection-start-line="922" selection-start-column="1" selection-end-line="922" selection-end-column="1" />
           <folding>
             <element signature="e#16236#16409#0" expanded="false" />
             <element signature="e#16428#16585#0" expanded="false" />
